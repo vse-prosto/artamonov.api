@@ -1,0 +1,16 @@
+{
+    "name": "artamonov/api",
+    "version": "3.4.1",
+    "description": "RESTful API module for Bitrix",
+    "keywords": ["restful", "rest", "api", "bitrix"],
+    "homepage": "https://github.com/ArtamonovDenis/artamonov.api",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Artamonov Denis",
+            "homepage": "http://artamonov.pro"
+        }
+    ],
+    "require": {}
+}
